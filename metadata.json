@@ -1,0 +1,6 @@
+{
+  "name": "Hyper Diagnostics",
+  "description": "Advanced hardware and system monitor dashboard tailored for Redmi 13 5G under HyperOS and Android 16, with diagnostic tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
